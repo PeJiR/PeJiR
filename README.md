@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roberto
-- 👀 I’m interested in Web Programming, Business Intelligence & Data Analyst 
+- 👀 I’m interested in Web Programming, Business Intelligence & Machine Learning. 
 - 🌱 I’m currently studying a Bachelor degree in Computer Science with a specialisation in Web, Mobile & Business Intelligence.
 
 - 📫 How to reach me  ... pejir84@gmail.com
