@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roberto
 - 👀 I’m interested in Business Intelligence & Data Analyst 
-- 🌱 I’m currently studying a Professional degree in Computer Science with a specialisation in business Information systems and data management
+- 🌱 I’m currently studying a Bachelor degree in Computer Science with a specialisation in Web, Mobile & Business Intelligence.
 
 - 📫 How to reach me  ... pejir84@gmail.com
 
