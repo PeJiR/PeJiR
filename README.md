@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roberto
-- 👀 I’m interested in Web Programming, Business Intelligence & Machine Learning. 
-- 🌱  
+- 👀 I am passionate about data analysis, visualizations and statistics.
+- 🌱QHSE Profesional experience in Quality & Project Management.
 
 - 📫 How to reach me  ... pejir84@gmail.com
 
