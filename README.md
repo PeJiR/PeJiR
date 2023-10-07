@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center"> 
 <h3 align="center">Let's connect</h3>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=PeJiR&color=blue&style=flat-square" alt="PeJiR profile views" />
+
 
 </div>
 <hr/>
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center"> 
 <h3 align="center">Let's connect</h3>
 
-[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/hashirshoaeb?label=Follow%20me)](https://twitter.com/hashirshoaeb)
+[!<img align="center" src="https://komarev.com/ghpvc/?username=PeJiR&color=blue&style=flat-square" alt="PeJiR profile views" />
 [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hashirshoaeb)
 
 </div>
