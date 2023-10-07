@@ -9,9 +9,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <a href="https://github.com/pejir">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pejir&show_icons=true&theme=light&line_height=27" alt="pejir's github stats"/>
- 
-</a>
-<p align="center">    
+
+<div align="center"> 
+<h3 align="center">Let's connect</h3>
 <img align="center" src="https://komarev.com/ghpvc/?username=PeJiR&color=blue&style=flat-square" alt="PeJiR profile views" />
-["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pejir/)
-</p>
+[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pejir/)
+
+</div>
