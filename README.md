@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 </head>
 <body>
   <img src="https://komarev.com/ghpvc/?username=PeJiR&color=blue&style=flat-square" alt="PeJiR profile views" />
-  <a href="https://www.linkedin.com/in/hashirshoaeb" target="_blank">
+  <a href="https://www.linkedin.com/in/pejir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
   </a>
 </body>
