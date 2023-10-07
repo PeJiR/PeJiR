@@ -14,9 +14,7 @@ You can click the Preview link to take a look at your changes.
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  
-</style>
+
 </head>
 <body>
   <img src="https://komarev.com/ghpvc/?username=PeJiR&color=blue&style=flat-square" alt="PeJiR profile views" />
