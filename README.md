@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roberto
 - 👀 I am passionate about data analysis, visualizations and statistics.
-- 🌱QHSE Profesional experience in Quality & Project Management.
+- 🌱QHSE Profesional experienced in Quality Control.
 
 - 📫 How to reach me  ... pejir84@gmail.com
 
