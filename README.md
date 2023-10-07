@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Roberto
+- 👋 Hi 
 - 👀 I am passionate about data analysis, visualizations and statistics.
 - 🌱QHSE Profesional experienced in Quality Control.
 
