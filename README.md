@@ -11,12 +11,20 @@ You can click the Preview link to take a look at your changes.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pejir&show_icons=true&theme=light&line_height=27" alt="pejir's github stats"/>
 
 <hr/>
-
-
-<div align="center"> 
-
-
-<img align="center" src="https://komarev.com/ghpvc/?username=PeJiR&color=blue&style=flat-square" alt="PeJiR profile views" />
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hashirshoaeb)
-
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  /* CSS to center images */
+  body {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+  <img src="https://komarev.com/ghpvc/?username=PeJiR&color=blue&style=flat-square" alt="PeJiR profile views" />
+  <a href="https://www.linkedin.com/in/hashirshoaeb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
+  </a>
+</body>
+</html>
