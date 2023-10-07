@@ -16,8 +16,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center"> 
 
 
-[![<img align="center" src="https://komarev.com/ghpvc/?username=PeJiR&color=blue&style=flat-square" alt="PeJiR profile views" />]
-
+![<img align="center" src="https://komarev.com/ghpvc/?username=PeJiR&color=blue&style=flat-square" alt="PeJiR profile views" />
 [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hashirshoaeb)
 
 </div>
