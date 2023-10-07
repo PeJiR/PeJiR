@@ -1,8 +1,6 @@
 - 👋 Hi 
-- 👀 I am passionate about data analysis, visualizations and statistics.
-- 🌱QHSE Profesional experienced in Quality Control.
-
-- 📫 How to reach me  ... pejir84@gmail.com
+- Data entry passionate about data analysis, visualizations , statistics and machine learning.
+   
 
 <!---
 PeJiR/PeJiR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
