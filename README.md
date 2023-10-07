@@ -1,5 +1,5 @@
-- 👋 Hi 
-- I'm a Data passionate about data analysis, visualizations , statistics and machine learning.
+👋 # Hi 
+I'm a Data passionate about data analysis, visualizations , statistics and machine learning.
    
 
 <!---
