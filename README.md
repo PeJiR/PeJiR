@@ -1,9 +1,6 @@
 ### 👋 Hi 
 **I'm a passionate about data analysis, visualizations, statistics, and machine learning.**
-   
 
-
-- 💞️ I am seeking opportunities to collaborate on actual projects and gain hands-on experience
 
 <a href="https://github.com/pejir">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pejir&show_icons=true&theme=light&line_height=27" alt="pejir's github stats"/>
