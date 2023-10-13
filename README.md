@@ -20,8 +20,6 @@ In 2024, I plan to start a B.Sc. in a data science field to further my education
 
 - 📫 How to reach me **pejir84@gmail.com**
 
-- 📄 Know about my experiences [file:///media/veracrypt1/MEGA/CV/FRancais/Roberto_PEREZ_CV.pdf](file:///media/veracrypt1/MEGA/CV/FRancais/Roberto_PEREZ_CV.pdf)
-
 - ⚡ Fun fact **Did you know that the world's oldest known computer program is a game of Tic-Tac-Toe? It was written in 1952 by A.S. Douglas for the EDSAC computer.**
 
 <h3 align="left">Connect with me:</h3>
