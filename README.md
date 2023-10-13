@@ -2,9 +2,9 @@
 
 <h4 align="left">
  
-In 2023, I decided that I would like to take a different direction in my life after a successful career in quality assurance.
+In 2023, I decided that I would like to take a different direction in my life after a successful career in Quality Assurance.
 
-I had come to the realisation that this role had little opportunity for progression, and I have always had an interest in computers and technology.
+I had come to the realisation that my QA career had little opportunity for progression, and I have always had an interest in computers and technology.
 
 To achieve my goal of becoming a data scientist, I started self-learning to develop my skills in Python, SQL, Statistics, Machine Learning, Data wrangling, Visualization and Cloud computing.
 
