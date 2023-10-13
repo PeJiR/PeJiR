@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
-<h3 align="center">I'm a passionate about data analysis, visualizations, statistics, and machine learning.</h3>
+<h3 align="center">In 2023, I decided that i would like to take a different direction in my life after a successful career in quality assurance. i had come to realisation that this role had little opportunity for progression and i have always had an interest in computers and technology
+To achieve my goal of becoming a data scientist, I started self-learning to develop my skills in Python, SQL, Statistics, Machine Learning, Data wrangling, Visualization and Cloud computing.
+In 2024, I plan to start a BSc in a data science field to further my education and skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pejir&label=Profile%20views&color=0e75b6&style=flat" alt="pejir" /> </p>
 
