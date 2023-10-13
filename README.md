@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
-
-<h4 align="left">
+<h3 align="left">
+In 2023, I decided that I would like to take a different direction in my life after a successful career in Quality Assurance. 
  
-In 2023, I decided that I would like to take a different direction in my life after a successful career in Quality Assurance.
-
 I had come to the realisation that my QA career had little opportunity for progression, and I have always had an interest in computers and technology.
 
-To achieve my goal of becoming a data scientist, I started self-learning to develop my skills in Python, SQL, Statistics, Machine Learning, Data wrangling, Visualization and Cloud computing.
+To achieve my goal of becoming a data scientist, I started self-learning to develop my skills in Python, SQL, Statistics, Machine Learning, Data wrangling, Visualization and Cloud computing. 
 
-In 2024, I plan to start a B.Sc. in a data science field to further my education and skills.</h4>
+In 2024, I plan to start a B.Sc. in a data science field to further my education and skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pejir&label=Profile%20views&color=0e75b6&style=flat" alt="pejir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pejir" alt="pejir" /></a> </p>
 
-- 🔭 I’m currently working on [Spaceship Titanic Predict which passengers are transported to an alternate dimension](https://www.kaggle.com/code/robertoperezjimenenz/spaceship-titanic)
+- 🔭 I’m currently working on [Spaceship Titanic Predict which passengers are transported to an alternate dimension](https://www.kaggle.com/robertoperezjimenenz/spaceship-titanic/edit)
 
 - 🌱 I’m currently learning **Python, SQL,**
 
@@ -22,12 +20,19 @@ In 2024, I plan to start a B.Sc. in a data science field to further my education
 
 - 📫 How to reach me **pejir84@gmail.com**
 
+- 📄 Know about my experiences [file:///media/veracrypt1/MEGA/CV/FRancais/Roberto_PEREZ_CV.pdf](file:///media/veracrypt1/MEGA/CV/FRancais/Roberto_PEREZ_CV.pdf)
+
+- ⚡ Fun fact **Did you know that the world's oldest known computer program is a game of Tic-Tac-Toe? It was written in 1952 by A.S. Douglas for the EDSAC computer.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pejir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pejir" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21598175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21598175" height="30" width="40" /></a>
 <a href="https://kaggle.com/robertoperezjimenenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="robertoperezjimenenz" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pejir84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pejir84" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pejir84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pejir84" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pejir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pejir" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@pejir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pejir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,6 +43,7 @@ In 2024, I plan to start a B.Sc. in a data science field to further my education
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pejir&show_icons=true&locale=en" alt="pejir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pejir&" alt="pejir" /></p>
+
 
 
 
