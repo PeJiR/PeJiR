@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pejir" alt="pejir" /></a> </p>
 
-- 🔭 I’m currently working on [Spaceship Titanic Predict which passengers are transported to an alternate dimension](https://www.kaggle.com/robertoperezjimenenz/spaceship-titanic/edit)
+- 🔭 I’m currently working on [Spaceship Titanic Predict which passengers are transported to an alternate dimension](https://www.kaggle.com/code/robertoperezjimenenz/spaceship-titanic)
 
 - 🌱 I’m currently learning **Python, SQL,**
 
