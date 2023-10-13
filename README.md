@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pejir" alt="pejir" /></a> </p>
 
+- 🔭 I’m currently working on [Spaceship Titanic Predict which passengers are transported to an alternate dimension](https://www.kaggle.com/robertoperezjimenenz/spaceship-titanic/edit)
+
 - 🌱 I’m currently learning **Python, SQL,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PeJiR/Portfolio-Projects.git](https://github.com/PeJiR/Portfolio-Projects.git)
@@ -27,6 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pejir&show_icons=true&locale=en" alt="pejir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pejir&" alt="pejir" /></p>
+
 
 
 
