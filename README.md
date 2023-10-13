@@ -12,7 +12,7 @@ In 2024, I plan to start a B.Sc. in a data science field to further my education
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pejir" alt="pejir" /></a> </p>
 
-- 🔭 I’m currently working on [Spaceship Titanic Predict which passengers are transported to an alternate dimension](https://www.kaggle.com/robertoperezjimenenz/spaceship-titanic/edit)
+- 🔭 I’m currently working on [Calculation of employee turnover costs](https://github.com/PeJiR/Calculation-of-employee-turnover-costs.git)
 
 - 🌱 I’m currently learning **Python, SQL,**
 
