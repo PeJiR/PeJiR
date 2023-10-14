@@ -8,7 +8,6 @@ To achieve my goal of becoming a data scientist, I started self-learning to deve
 
 In 2024, I plan to start a B.Sc. in a data science field to further my education and skills.</h3>
 
-
 - 🔭 I’m currently working on [Calculation of employee turnover costs](https://github.com/PeJiR/Calculation-of-employee-turnover-costs.git)
 
 - 🌱 I’m currently learning **Python, SQL,**
