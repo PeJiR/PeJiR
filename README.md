@@ -8,8 +8,6 @@ To achieve my goal of becoming a data scientist, I started self-learning to deve
 
 In 2024, I plan to start a B.Sc. in a data science field to further my education and skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pejir&label=Profile%20views&color=0e75b6&style=flat" alt="pejir" /> </p>
-
 
 - 🔭 I’m currently working on [Calculation of employee turnover costs](https://github.com/PeJiR/Calculation-of-employee-turnover-costs.git)
 
@@ -42,7 +40,7 @@ In 2024, I plan to start a B.Sc. in a data science field to further my education
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pejir&" alt="pejir" /></p>
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pejir&label=Profile%20views&color=0e75b6&style=flat" alt="pejir" /> </p>
 
 
 
