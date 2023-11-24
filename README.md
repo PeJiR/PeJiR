@@ -2,7 +2,7 @@
 <h3 align="left">
 🌱 QHSE Professional with experience in Quality and Project Management
 
-
+<br>
 In 2023 I started self-learning to develop my skills in Python, SQL, Statistics, Machine Learning, Data wrangling, Visualization and Cloud computing. 
 
 
