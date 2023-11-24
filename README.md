@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="left">
-In 2023, I decided that I would like to take a different direction in my life after a successful career in Quality Assurance. 
- 
-I had come to the realisation that my QA career had little opportunity for progression, and I have always had an interest in computers and technology.
+🌱 QHSE Professional with experience in Quality and Project Management
 
-To achieve my goal of becoming a data scientist, I started self-learning to develop my skills in Python, SQL, Statistics, Machine Learning, Data wrangling, Visualization and Cloud computing. 
+In 2023 I started self-learning to develop my skills in Python, SQL, Statistics, Machine Learning, Data wrangling, Visualization and Cloud computing. 
 
-In 2024, I plan to start a B.Sc. in a data science field to further my education and skills.</h3>
 
-- 🔭 I’m currently working on [Calculation of employee turnover costs](https://github.com/PeJiR/Calculation-of-employee-turnover-costs.git)
+
+- 🔭 I’m currently working on this project: [Calculation of employee turnover costs](https://github.com/PeJiR/Calculation-of-employee-turnover-costs.git)
 
 - 🌱 I’m currently learning **Python, SQL,**
 
