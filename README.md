@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pejir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pejir" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21598175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21598175" height="30" width="40" /></a>
-<a href="https://kaggle.com/robertoperezjimenenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Kaggel.svg" alt="robertoperezjimenenz" height="30" width="40" /></a>
+<a href="https://kaggle.com/robertoperezjimenenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Kaggle.svg" alt="robertoperezjimenenz" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pejir84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pejir84" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pejir84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pejir84" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pejir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pejir" height="30" width="40" /></a>
