@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, SQL,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PeJiR/Portfolio-Projects.git](https://github.com/PeJiR/Portfolio-Projects.git)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/PeJiR/Portfolio-Projects.git)
 
 - 📫 How to reach me **pejir84@gmail.com**
 
