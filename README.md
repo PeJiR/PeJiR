@@ -25,7 +25,7 @@
 <a href="https://www.hackerrank.com/pejir84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pejir84" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pejir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pejir" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@pejir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pejir" height="30" width="40" /></a>
-<a href="https://https://www.freecodecamp.org/Roberto_Perez_Jimenez" target="blank"><img align="center" src="https://www.freecodecamp.org/Roberto_Perez_Jimenez" alt="@pejir" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/Roberto_Perez_Jimenez" target="blank"><img align="center" src="https://github.com/PeJiR/Diplomes-Certifications/blob/main/IT/freeCodeCamp%20(%F0%9F%94%A5)/Screenshot%20from%202024-01-21%2004-05-03.png" alt="@pejir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
