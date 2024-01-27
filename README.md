@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on this project: [Calculation of employee turnover costs](https://github.com/PeJiR/Calculation-of-employee-turnover-costs.git)--->
 
 
-- 🌱 I’m currently learning **Python, SQL,**
+- 🌱 I’m currently learning **HTML, CSS,**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/PeJiR/Portfolio-Projects.git)
 
