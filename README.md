@@ -2,7 +2,9 @@
 <h3 align="left">
 <!---🌱 QHSE Professional with experience in Quality and Project Management--->
 
-<br> In 2023 I started a new journey self-learning to develop my skills in Python, SQL, Statistics, Web,Machine Learning, Data wrangling, Visualization and Cloud computing. 
+<br> a Spaniard <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"> Web Developer. 
+
+- :computer: I’m currently working with C# / .NET / Angular / TypeScript
 
  <!---
 - 🔭 I’m currently working on this project: [Calculation of employee turnover costs](https://github.com/PeJiR/Calculation-of-employee-turnover-costs.git)--->
