@@ -10,9 +10,7 @@
 
 - 📫 How to reach me **pejir84@gmail.com**
 
-- ⚡ Fun fact **Did you know that the world's oldest known computer program is a game of Tic-Tac-Toe? It was written in 1952 by A.S. Douglas for the EDSAC computer.**
-
-<h3 align="left">Connect with me:</h3>
+  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pejir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pejir" height="30" width="40" /></a>
 <a href="https://www.freecodecamp.org/Pejir" target="blank"><img align="center" src="https://raw.githubusercontent.com/PeJiR/Diplomes-and-Certifications/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Screenshot%20from%202024-01-21%2004-05-03.png" alt="@pejir" height="30" width="30" /></a>
