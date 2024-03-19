@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Roberto</h1>
+<h1 align="center">Hola, Hi , Bonjour! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="left">
 <!---🌱 QHSE Professional with experience in Quality and Project Management--->
 
-<br> a Spaniard <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"> Web Developer. 
+<br> I'm Roberto, a Spaniard Web Developer <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"> . 
 
 - :computer: I’m currently working with **HTML / CSS / JavaScript**  
 
