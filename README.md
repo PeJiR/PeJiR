@@ -2,7 +2,7 @@
 <h3 align="left">
 <!---🌱 QHSE Professional with experience in Quality and Project Management--->
 
-<br> I'm Roberto, a Spaniard 🇪🇸 Web Developer
+<br> I'm Roberto, a Spanish  🇪🇸  web developer.
 
 - :computer: I’m currently working with **HTML / CSS / JavaScript**  
 
