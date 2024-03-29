@@ -44,8 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pejir&show_icons=true&locale=en" alt="pejir" /></p>
  <!---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pejir&" alt="pejir" /></p>
->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pejir&" alt="pejir"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pejir&label=Profile%20views&color=0e75b6&style=flat" alt="pejir" /> </p>
 
