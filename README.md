@@ -12,8 +12,9 @@
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pejir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pejir" height="30" width="40" /></a>
-<a href="https://www.freecodecamp.org/Pejir" target="blank"><img align="center" src="https://raw.githubusercontent.com/PeJiR/Diplomes-and-Certifications/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Screenshot%20from%202024-01-21%2004-05-03.png" alt="@pejir" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/pejir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/Pejir" target="blank"><img align="center" src="https://camo.githubusercontent.com/5e76869b5eaa7b5be75a510f7641ebc8fa7a294ec38b9cd118dfbd980e5e7ef9/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f43344530424151474c4b6a334a48636f6630772f636f6d70616e792d6c6f676f5f3130305f3130302f302f313633303633393638343939372f667265655f636f64655f63616d705f6c6f676f3f653d3137323030353132303026763d6265746126743d462d74544e314d32655779654e6f5547785768514a7279735272516f6e636b32504a4a5578457061663463" alt="freecodecamp" height="30" width="30" /></a>
+
 <!---<a href="https://stackoverflow.com/users/21598175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21598175" height="30" width="40" /></a>
 <a href="https://kaggle.com/robertoperezjimenenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="robertoperezjimenenz" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pejir84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pejir84" height="30" width="40" /></a>
