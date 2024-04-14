@@ -1,4 +1,4 @@
-# [![Roberto Perez header](https://raw.githubusercontent.com/PeJiR/CSS-Masterclass/main/images/ai-typing.gif?token=GHSAT0AAAAAACQTOKSGXKOLH7AONXPFZYN4ZQ4MRAA)](https://towardsthecloud.com)
+# [![Roberto Perez header](https://github.com/PeJiR/CSS-Masterclass/blob/main/images/emulators.gif?raw=true)]( )
 
 # Hi, I'm Roberto!
 
