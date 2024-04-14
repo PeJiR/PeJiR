@@ -1,4 +1,4 @@
-# [![Danny Steenman header](https://raw.githubusercontent.com/PeJiR/CSS-Masterclass/main/images/SWS%20Logo%20non%20bg.png?token=GHSAT0AAAAAACQTOKSGSJXR24OTNCCPWNLSZQ4MNZQ)]()
+# [![Roberto Perez header](https://raw.githubusercontent.com/PeJiR/CSS-Masterclass/main/images/ai-typing.gif?token=GHSAT0AAAAAACQTOKSGXKOLH7AONXPFZYN4ZQ4MRAA)](https://towardsthecloud.com)
 
 # Hi, I'm Roberto!
 
