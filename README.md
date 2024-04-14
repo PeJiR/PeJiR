@@ -1,5 +1,7 @@
- <img src="https://github.com/PeJiR/CSS-Masterclass/blob/main/images/ai-typing.gif?raw=true" alt="header" width="500px" height="350px"/> 
-
+ <p align="center">
+  <img src="https://github.com/PeJiR/CSS-Masterclass/blob/main/images/ai-typing.gif?raw=true" alt="header"  width="500px" height="350px"/> 
+ </p>
+ 
 # Hi, I'm Roberto!
 
 I’m a [Freelance Web Developer](https://www.linkedin.com/in/pejir/) who enjoys building infrastructure on AWS Cloud.
