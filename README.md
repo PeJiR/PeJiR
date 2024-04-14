@@ -55,14 +55,20 @@ I'm passionate about sharing my journey and insights, which you can explore thro
 
 ## 📈 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=dannysteenman&show_icons=true&line_height=27&count_private=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA)](https://github.com/dannysteenman/dannysteenman)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pejir&show_icons=true&locale=en&layout=compact" alt="pejir" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pejir&show_icons=true&locale=en" alt="pejir" /></p>
+ <!---
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pejir&" alt="pejir"/></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pejir&label=Profile%20views&color=0e75b6&style=flat" alt="pejir" /> </p>
 
 ## 👾 Socials
 
 [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dannysteenman)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannysteenman)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pejir/)
 [![](https://img.shields.io/badge/Towards_the_Cloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)](https://towardsthecloud.com)
-[![](https://komarev.com/ghpvc/?username=dannysteenman&style=for-the-badge&color=red&abbreviated=true)](https://github.com/dannysteenman)
+[![](https://komarev.com/ghpvc/?username=dannysteenman&style=for-the-badge&color=red&abbreviated=true)](https://github.com/PeJiR)
 
 
 
@@ -82,15 +88,7 @@ I'm passionate about sharing my journey and insights, which you can explore thro
 
 </p>
 
-<h3 align="left">🥞 My Tech Stack</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pejir&show_icons=true&locale=en&layout=compact" alt="pejir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pejir&show_icons=true&locale=en" alt="pejir" /></p>
- <!---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pejir&" alt="pejir"/></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pejir&label=Profile%20views&color=0e75b6&style=flat" alt="pejir" /> </p>
+ 
 
 
 
