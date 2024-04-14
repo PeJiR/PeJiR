@@ -4,7 +4,7 @@
 
 <br> I'm Roberto, a Spanish  🇪🇸  web developer.
 
-- :computer: I’m currently working with **HTML / CSS / JavaScript**  
+<!---- :computer: I’m currently working with **HTML / CSS / JavaScript**  --->
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/PeJiR/Portfolio-Projects.git)
 
