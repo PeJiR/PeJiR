@@ -30,45 +30,28 @@ I'm passionate about sharing my journey and insights, which you can explore thro
 
 
 ## 🥞 My Tech Stack
-
-![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/ZSH_Shell-2bbc8a?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-![](https://img.shields.io/badge/AWS_CDK-288D46?style=for-the-badge&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## 🏗️ My Open Source Projects
-
-| 📂 Projects                                                                                        | ⭐ Stars                                                                                                 | 🍴 Forks                                                                                                 | 🚧 Issues                                                                                            | 📬 Pull requests                                                                                             |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| [AWS CDK Starterkit](https://github.com/dannysteenman/aws-cdk-starterkit)                         | ![](https://img.shields.io/github/stars/dannysteenman/aws-cdk-starterkit?color=brightgreen)             | ![](https://img.shields.io/github/forks/dannysteenman/aws-cdk-starterkit?color=brightgreen)             | ![](https://img.shields.io/github/issues/dannysteenman/aws-cdk-starterkit?color=brightgreen)        | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-cdk-starterkit?color=yellow)                  |
-| [AWS CDK Python Starterkit](https://github.com/dannysteenman/aws-cdk-python-starterkit)           | ![](https://img.shields.io/github/stars/dannysteenman/aws-cdk-python-starterkit?color=brightgreen)      | ![](https://img.shields.io/github/forks/dannysteenman/aws-cdk-python-starterkit?color=brightgreen)      | ![](https://img.shields.io/github/issues/dannysteenman/aws-cdk-python-starterkit?color=brightgreen) | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-cdk-python-starterkit?color=brightgreen)      |
-| [AWS CDK Examples](https://github.com/dannysteenman/aws-cdk-examples)                             | ![](https://img.shields.io/github/stars/dannysteenman/aws-cdk-examples?color=brightgreen)               | ![](https://img.shields.io/github/forks/dannysteenman/aws-cdk-examples?color=brightgreen)               | ![](https://img.shields.io/github/issues/dannysteenman/aws-cdk-examples?color=brightgreen)          | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-cdk-examples?color=brightgreen)               |
-| [AWS Toolbox](https://github.com/dannysteenman/aws-toolbox)                                       | ![](https://img.shields.io/github/stars/dannysteenman/aws-toolbox?color=brightgreen)                    | ![](https://img.shields.io/github/forks/dannysteenman/aws-toolbox?color=brightgreen)                    | ![](https://img.shields.io/github/issues/dannysteenman/aws-toolbox?color=yellow)                    | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-toolbox?color=brightgreen)                    |
-| [VSCode CDK Construct Snippets](https://github.com/dannysteenman/vscode-cdk-snippets)             | ![](https://img.shields.io/github/stars/dannysteenman/vscode-cdk-snippets?color=brightgreen)            | ![](https://img.shields.io/github/forks/dannysteenman/vscode-cdk-snippets?color=brightgreen)            | ![](https://img.shields.io/github/issues/dannysteenman/vscode-cdk-snippets?color=yellow)            | ![](https://img.shields.io/github/issues-pr/dannysteenman/vscode-cdk-snippets?color=brightgreen)            |
-| [VSCode CloudFormation Snippets](https://github.com/dannysteenman/vscode-cloudformation-snippets) | ![](https://img.shields.io/github/stars/dannysteenman/vscode-cloudformation-snippets?color=brightgreen) | ![](https://img.shields.io/github/forks/dannysteenman/vscode-cloudformation-snippets?color=brightgreen) | ![](https://img.shields.io/github/issues/dannysteenman/vscode-cloudformation-snippets?color=orange) | ![](https://img.shields.io/github/issues-pr/dannysteenman/vscode-cloudformation-snippets?color=brightgreen) |
-| [VSCode SAM Snippets](https://github.com/dannysteenman/vscode-sam-snippets) | ![](https://img.shields.io/github/stars/dannysteenman/vscode-sam-snippets?color=brightgreen) | ![](https://img.shields.io/github/forks/dannysteenman/vscode-sam-snippets?color=brightgreen) | ![](https://img.shields.io/github/issues/dannysteenman/vscode-sam-snippets?color=brightgreen) | ![](https://img.shields.io/github/issues-pr/dannysteenman/vscode-sam-snippets?color=brightgreen) |
-
-## 📙 My Latest Blog Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [Amazon ECS vs Amazon EC2: What’s Best for Modern Cloud?](https://towardsthecloud.com/amazon-ecs-vs-amazon-ec2)
-- [Amazon ECS vs AWS Fargate: 5 Most Important Differences Explained](https://towardsthecloud.com/amazon-ecs-vs-aws-fargate)
-- [Solved: Missing the following required SSO configuration values](https://towardsthecloud.com/aws-sso-missing-sso-configuration-values)
-- [Solved: &lpar;invalidparameterexception&rpar; when calling the executecommand operation](https://towardsthecloud.com/amazon-ecs-invalidparameterexception-executecommand)
-- [Solved: &lpar;forbiddenexception&rpar; when calling the getrolecredentials operation in AWS SSO](https://towardsthecloud.com/aws-sso-forbiddenexception-getrolecredentials-operation)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [...click here for more blog articles](https://towardsthecloud.com)
+ 
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="Debian" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+</p>
+ 
 
 ## 📈 GitHub Stats
 
@@ -83,18 +66,8 @@ I'm passionate about sharing my journey and insights, which you can explore thro
 
 
 
-<h1 align="center">Hola, Hi , Bonjour!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-<h3 align="left">
-<!---🌱 QHSE Professional with experience in Quality and Project Management--->
-
-<br> I'm Roberto, a Spanish  🇪🇸  web developer.
-
-<!---- :computer: I’m currently working with **HTML / CSS / JavaScript**  --->
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/PeJiR/Portfolio-Projects.git)
-
-- 📫 How to reach me **pejir84@gmail.com**
-
+ 
+ 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pejir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
@@ -110,21 +83,6 @@ I'm passionate about sharing my journey and insights, which you can explore thro
 </p>
 
 <h3 align="left">🥞 My Tech Stack</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="Debian" width="40" height="40"/> </a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pejir&show_icons=true&locale=en&layout=compact" alt="pejir" /></p>
 
