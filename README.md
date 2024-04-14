@@ -1,4 +1,4 @@
-# [![Danny Steenman header](https://raw.githubusercontent.com/dannysteenman/dannysteenman/main/icon/gh-header.png)]()
+# [![Danny Steenman header](https://raw.githubusercontent.com/PeJiR/CSS-Masterclass/main/images/SWS%20Logo%20non%20bg.png?token=GHSAT0AAAAAACQTOKSGSJXR24OTNCCPWNLSZQ4MNZQ)]()
 
 # Hi, I'm Roberto!
 
