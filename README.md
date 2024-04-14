@@ -2,7 +2,7 @@
 
 # Hi, I'm Roberto!
 
-I’m a [Freelance Cloud Engineer](https://www.linkedin.com/in/dannysteenman/) who enjoys building infrastructure on AWS Cloud.
+I’m a [Freelance Web Developer](https://www.linkedin.com/in/dannysteenman/) who enjoys building infrastructure on AWS Cloud.
 
 I'm passionate about sharing my journey and insights, which you can explore through my articles on my [Blog](https://towardsthecloud.com/blog) and snippets of wisdom on [Twitter](https://twitter.com/dannysteenman).
 
