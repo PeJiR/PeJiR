@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://github.com/PeJiR/CSS-Masterclass/blob/main/images/ai-typing.gif?raw=true" alt="header"  width="500px" height="350px"/> 
+  <img src="https://github.com/PeJiR/CSS-Masterclass/blob/main/images/ai-typing.gif?raw=true" alt="header"  width="500px" height="450px"/> 
  </p>
  
 # Hi, I'm Roberto!
