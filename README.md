@@ -1,4 +1,4 @@
-# [![Roberto Perez header](https://github.com/PeJiR/CSS-Masterclass/blob/main/images/emulators.gif?raw=true)]( )
+ <img src="https://github.com/PeJiR/CSS-Masterclass/blob/main/images/ai-typing.gif?raw=true" alt="header" width="500px" height="350px"/> 
 
 # Hi, I'm Roberto!
 
