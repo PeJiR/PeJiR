@@ -5,6 +5,7 @@
 
 # Hi, I'm Roberto!
 
+<!---
 I’m a [Freelance Web Developer](https://www.linkedin.com/in/pejir/) who enjoys building infrastructure on AWS Cloud.
 
 I'm passionate about sharing my journey and insights, which you can explore through my articles on my [Blog](https://towardsthecloud.com/blog) and snippets of wisdom on [Twitter](https://twitter.com/dannysteenman).
@@ -30,7 +31,7 @@ I'm passionate about sharing my journey and insights, which you can explore thro
 >
 > <a href="https://towardsthecloud.com/contact"><img alt="Schedule introduction call" src="https://img.shields.io/badge/schedule%20introduction%20call-success.svg?style=for-the-badge"/></a>
 > </details>
-
+--->
 
 ## 🥞 My Tech Stack
  
