@@ -2,6 +2,9 @@
   <img src="https://github.com/PeJiR/CSS-Masterclass/blob/main/images/ai-typing.gif?raw=true" alt="header"  width="500px" height="450px"/> 
  </p>
 
+<input type="range">
+
+<img src="switch.svg" alt="light switch">
 
 # Hi, I'm Roberto!
 
