@@ -4,7 +4,7 @@
 
 <input type="range">
 
-<img src="switch.svg" alt="light switch">
+ 
 
 # Hi, I'm Roberto!
 
