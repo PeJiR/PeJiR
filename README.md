@@ -1,5 +1,5 @@
   <p align="center">
-  <img src="https://github.com/PeJiR/CSS-Masterclass/blob/main/images/ai-typing.gif?raw=true" alt="header"  width="500px" height="450px"/> 
+  <img http ="https://github.com/PeJiR/Portfolio" src="https://github.com/PeJiR/CSS-Masterclass/blob/main/images/ai-typing.gif?raw=true" alt="header"  width="500px" height="450px"/> 
  </p>
 
 <input type="range">
