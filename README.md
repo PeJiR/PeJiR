@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/PeJiR/Portfolio">
+  <a href="https://github.com/PeJiR/Portfolio"target="_blank" >
     <img src="https://github.com/PeJiR/CSS-Masterclass/blob/main/images/ai-typing.gif?raw=true" alt="header" width="500px" height="450px"/>
   </a>
 </p>
