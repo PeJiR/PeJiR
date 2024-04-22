@@ -1,6 +1,8 @@
-  <p align="center">
-  <img http ="https://github.com/PeJiR/Portfolio" src="https://github.com/PeJiR/CSS-Masterclass/blob/main/images/ai-typing.gif?raw=true" alt="header"  width="500px" height="450px"/> 
- </p>
+<p align="center">
+  <a href="https://github.com/PeJiR">
+    <img src="https://github.com/PeJiR/CSS-Masterclass/blob/main/images/ai-typing.gif?raw=true" alt="header" width="500px" height="450px"/>
+  </a>
+</p>
 
 <input type="range">
 
@@ -76,9 +78,9 @@ I'm passionate about sharing my journey and insights, which you can explore thro
 
 ## 👾 Socials
 
-[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dannysteenman)
+[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)] 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pejir/)
-[![](https://img.shields.io/badge/Towards_the_Cloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)](https://towardsthecloud.com)
+[![](https://img.shields.io/badge/Towards_the_Cloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)] 
 [![](https://komarev.com/ghpvc/?username=dannysteenman&style=for-the-badge&color=red&abbreviated=true)](https://github.com/PeJiR)
 
 
