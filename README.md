@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/PeJiR/Portfolio"target="_blank" >
-    <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/main/images/idx-ai-types-l.gif" alt="header" width="500px" height="450px"/>
+    <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/main/images/idx-ai-types-l.gif" alt="header" width="auto" height="400px"/>
   </a>
 </p>
 
